@@ -5,7 +5,7 @@
 
     <img
       class="img"
-      src="https://source.unsplash.com/1600x900/?girl,sexy"
+      src="https://source.unsplash.com/400x450/?girl,sexy"
       alt="image"
     />
 
